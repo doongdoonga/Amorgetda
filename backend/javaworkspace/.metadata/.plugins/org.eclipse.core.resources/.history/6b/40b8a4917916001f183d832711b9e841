@@ -1,0 +1,10 @@
+package org.Amorgetda.day02.control.condition.exercise;
+
+public class Exam_If02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

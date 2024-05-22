@@ -1,0 +1,23 @@
+package org.Amorgetda.day04.array.practice;
+
+import java.util.Scanner;
+
+public class Exercise_Array05 {
+
+	public static void main(String[] args) {
+		// 문자열 입력받고 문자 하나하나를 배열에 넣고
+		// 검색할 문자를 입력받고
+		// 해당 문자가 몇개 들어가 있고
+		// 어디에 위치하는지를 구하시오.
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("문자열 : ");
+		String oj = sc.next();
+		String[] word = {"a","p","p","l","i","c","a","t","i","o","n"};
+		
+		
+		System.out.println("application에 i가 존재하는 위치(인덱스) : ");
+		System.out.println("i의 개수 : ");
+	}
+
+}

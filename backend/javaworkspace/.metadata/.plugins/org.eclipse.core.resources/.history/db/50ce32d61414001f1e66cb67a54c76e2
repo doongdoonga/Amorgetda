@@ -1,0 +1,10 @@
+package org.Amorgetda.day01.basic;
+
+public class Exam_DataType {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

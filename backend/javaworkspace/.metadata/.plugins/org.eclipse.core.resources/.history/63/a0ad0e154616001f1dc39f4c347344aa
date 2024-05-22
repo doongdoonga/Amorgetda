@@ -1,0 +1,15 @@
+package org.Amorgetda.day02.operator;
+
+public class Exam_Unary {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//단항 연사자
+		//a++, ++a -> a = a + 1;
+		int a1 = 1;
+		System.out.println(++a1);
+		System.out.println(a1++);
+		System.out.println(a1);
+		}
+
+}

@@ -1,0 +1,12 @@
+package org.Amorgetda.day01.inputsc;
+
+public class Exam_ScannerTest {
+
+	public static void main(String[] args) {
+		System.out.println("Test");
+		int a = 100;
+		System.out.println("a의 값 :"+a);
+
+	}
+
+}

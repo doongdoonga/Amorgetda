@@ -1,0 +1,10 @@
+package org.Amorgetda.day01.printbasic;
+
+public class Exam_PrintSample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

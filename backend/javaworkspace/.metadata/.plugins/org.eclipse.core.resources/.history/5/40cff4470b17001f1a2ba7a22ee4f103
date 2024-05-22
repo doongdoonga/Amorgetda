@@ -1,0 +1,10 @@
+package org.Amorgetda.day03.control.condition;
+
+public class Exam_Swich {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
