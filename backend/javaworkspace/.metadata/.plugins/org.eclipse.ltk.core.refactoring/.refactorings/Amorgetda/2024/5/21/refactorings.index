@@ -22,3 +22,20 @@
 1716356640213	Delete element
 1716356679458	Move compilation unit
 1716356712460	Delete element
+1716451936307	Rename package 'org.benq.day05.array'
+1716451947911	Rename package 'org.benq.day05.dimarray'
+1716451963257	Rename package 'org.benq.day05.dimarray.exercise'
+1716451976067	Rename package 'org.benq.day05.exception'
+1716451986481	Rename package 'org.benq.day05.exception.exercise'
+1716451999409	Rename package 'org.benq.day05.random'
+1716452010330	Rename package 'org.benq.day05.random.exercise'
+1716452367792	Delete element
+1716509163923	Rename package 'org.Amorgetda.day06.array.shor'
+1716510207109	Move compilation unit
+1716519524505	Rename type 'lunch_menu'
+1716531675830	Rename type 'lunch_menu'
+1716531709859	Rename type 'lunch_menu02'
+1716531769823	Rename type 'lunch_menu03'
+1716531788279	Rename type 'lunch_hj'
+1716531822319	Rename type 'Lunch_MenuFinal'
+1716531945115	Rename type '실험'

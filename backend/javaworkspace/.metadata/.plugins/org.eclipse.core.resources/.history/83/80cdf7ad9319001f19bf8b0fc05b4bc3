@@ -1,0 +1,19 @@
+package org.Amorgetda.day06.array.sort;
+
+import java.util.Scanner;
+
+public class Question1 {
+
+	public static void main(String[] args) {
+	
+		Scanner sc = new Scanner(System.in);
+		int[] a = new int[5];
+		
+		for(int i = 0; i < a.length; i++) {
+			int input = sc.nextInt();
+			a[i] = input;
+			System.out.print((i+1) + "번째 정수를 입력하세요 : ");
+		}
+		
+	}
+}

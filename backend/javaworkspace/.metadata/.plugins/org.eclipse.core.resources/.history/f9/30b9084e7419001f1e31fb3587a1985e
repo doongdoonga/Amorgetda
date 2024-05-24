@@ -1,0 +1,10 @@
+package org.Amorgetda.day06.array.sort;
+
+public class Exam_SelectionSort {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
