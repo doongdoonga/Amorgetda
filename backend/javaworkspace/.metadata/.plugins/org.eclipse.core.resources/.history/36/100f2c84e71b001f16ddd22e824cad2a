@@ -1,0 +1,14 @@
+package org.Amorgetda.day07.oop.run;
+
+public class suit {
+
+	private int size;
+	private String brand;
+	private int price;
+	
+	public suit(int size) {
+		this(size,"Hazzys");
+		System.out.println("Suit(int)호출!!");
+	}
+	
+}
