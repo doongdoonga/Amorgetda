@@ -1,0 +1,19 @@
+package org.Amorgetda.day08.oop.objectarray;
+
+public class Book {
+	// 제목
+	// 저자
+
+	public String Book;
+
+	public Book() {}
+
+	public (String bn) {
+		String string = this.bn = bn;
+	}
+
+	public int infor() {
+		static String = this.bn;
+		return infor;
+	}
+}

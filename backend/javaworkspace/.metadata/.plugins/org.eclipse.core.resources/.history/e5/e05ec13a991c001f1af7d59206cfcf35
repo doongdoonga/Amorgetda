@@ -1,0 +1,10 @@
+package org.Amorgetda.day08.oop.score;
+
+public class ScoreProgram3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

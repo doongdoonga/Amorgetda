@@ -1,1 +1,10 @@
 1716769624733	Move compilation units
+1716863379780	Rename compilation unit 'Stuedent.java'
+1716864197481	Rename type 'Test05'
+1716871681936	Delete element
+1716871771914	Rename type 'Feild'
+1716871818782	Rename type 'Main'
+1716871844648	Rename type 'Main01'
+1716873599012	Rename type 'Exam_ObjectArray'
+1716874467430	Extract local variable 'string'
+1716881832192	Rename type 'View_Student'
