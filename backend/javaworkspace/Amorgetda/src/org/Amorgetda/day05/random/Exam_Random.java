@@ -35,6 +35,12 @@ public class Exam_Random {
 			// 1 ~ 10 사이의 값
 			// (int)(Math.random()*10)+1
 			// 25 ~ 35 사이의 값
+			// double은 int 로 자동 형변환이 안되므로
+			// double 의 값을 int 변수에 넣으려고 할때
+			// 타입캐스팅을 하지 않으면 컴파일 에러가 뜬다
+			// 따라서 (int) 와 같이 강제 형변환을 해줘야 한다.
+			// 자동 형변환이 되는 경우 (byte, short -> int), (float -> double)
+			// 자동 형변환이 되지 않는 경우 (int -> byte, short), (double, float -> int
 			randNum = (int)(Math.random()*11)+25;
 			// 0 ~ 10
 			// +25 +25

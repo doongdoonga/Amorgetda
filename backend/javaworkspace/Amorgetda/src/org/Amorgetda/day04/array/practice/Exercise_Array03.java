@@ -13,9 +13,9 @@ public class Exercise_Array03 {
 		System.out.print("정수 : ");
 		int n[] = new int[sc.nextInt()];
 		
-			for(int i = 0; i < n.length; i++) {
-				n[i] = i+1;
-					System.out.print(n[i] + " ");
+		for(int i = 0; i < n.length; i++) {
+			n[i] = i+1;
+			System.out.print(n[i] + " ");
 		}
 		sc.close();
 	}

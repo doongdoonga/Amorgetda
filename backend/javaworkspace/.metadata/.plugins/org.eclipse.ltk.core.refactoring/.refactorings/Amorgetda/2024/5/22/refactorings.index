@@ -8,3 +8,34 @@
 1716873599012	Rename type 'Exam_ObjectArray'
 1716874467430	Extract local variable 'string'
 1716881832192	Rename type 'View_Student'
+1716948738891	Rename package 'org.Amorgetda.day09.oop'
+1716948757656	Delete element
+1716948764369	Delete element
+1716948799437	Copy compilation units
+1716948872228	Copy compilation unit
+1716948896275	Copy compilation unit
+1716950101896	Delete element
+1716950132429	Copy compilation unit
+1716952530613	Delete element
+1716965245265	Rename type 'Weapon'
+1717030197059	Rename type 'battle'
+1717030204087	Rename type 'main'
+1717034546792	Rename package 'org.Amorgetda.day10.oop.abstractex'
+1717034689505	Rename package 'org.Amorgetda.day10.oop.abstractex.exercise'
+1717034722861	Move compilation units
+1717034778111	Rename compilation unit 'package-info.java'
+1717039480510	Delete element
+1717057806340	Copy compilation unit
+1717057809136	Copy compilation unit
+1717057811326	Copy compilation unit
+1717057816055	Copy compilation unit
+1717057818242	Copy compilation unit
+1717058023459	Rename type 'Char'
+1717114488634	Rename package 'javaworld03'
+1717117720692	Rename package 'org.Amorgetda.day10.oop.objectex'
+1717117914139	Rename type 'Rectangle'
+1717123770986	Encapsulate field 'memberName'
+1717123778516	Encapsulate field 'memberEmail'
+1717123783143	Encapsulate field 'memberPhone'
+1717123787757	Encapsulate field 'memberAddress'
+1717125814768	Rename compilation unit 'MabageMember.java'

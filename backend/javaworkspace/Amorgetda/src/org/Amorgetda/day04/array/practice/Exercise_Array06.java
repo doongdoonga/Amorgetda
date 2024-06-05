@@ -19,5 +19,12 @@ public class Exercise_Array06 {
 			System.out.println(weeks[n]+"요일");
 			
 		}
+		
+		if(0 <= n && n <= 6) {
+			char[] weeks = {'월','화','수','목','금','토','일'};
+			System.out.println(weeks[n]+"요일");
+		} else {
+			System.out.print("잘못입력하였습니다.");
+		}
 	}
 }

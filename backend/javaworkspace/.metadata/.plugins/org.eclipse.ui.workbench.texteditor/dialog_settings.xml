@@ -6,12 +6,20 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="마을3"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="InterruptedException"/>
+			<item value="가방"/>
+			<item value="inventory"/>
+			<item value="select"/>
+			<item value="Name"/>
+			<item value="회복"/>
 			<item value="마을3"/>
 			<item value="ln"/>
 		</list>
 		<list key="replacehistory">
+			<item value="s"/>
+			<item value="name"/>
 			<item value=""/>
 		</list>
 	</section>

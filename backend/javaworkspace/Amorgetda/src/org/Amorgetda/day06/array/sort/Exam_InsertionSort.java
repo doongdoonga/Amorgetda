@@ -4,7 +4,7 @@ public class Exam_InsertionSort {
 
 	public static void main(String[] args) {
 		// 삽입정렬
-		// 정렬 알고리즘 중에 하나, 가장 간간하고 기본이되는 알고리즘
+		// 정렬 알고리즘 중에 하나, 가장 간단하고 기본이되는 알고리즘
 		// 배열의 n번 인덱스값을 n-1번에서 0번 인덱스까지 비교!
 		// n은 1부터 시작
 		

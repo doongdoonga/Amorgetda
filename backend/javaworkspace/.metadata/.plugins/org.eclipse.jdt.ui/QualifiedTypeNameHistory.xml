@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
     <fullyQualifiedTypeName name="java.awt.RadialGradientPaint"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
@@ -10,7 +9,27 @@
     <fullyQualifiedTypeName name="java.awt.Rectangle"/>
     <fullyQualifiedTypeName name="org.Amorgetda.day07.oop.exercise.Rectangle"/>
     <fullyQualifiedTypeName name="org.Amorgetda.day07.oop.Book"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="org.Amorgetda.day07.oop.run.suit"/>
     <fullyQualifiedTypeName name="org.Amorgetda.day05.dimarray.exercise.Exercise_DimArray"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day08.oop.objectarray.student.ManageStudent"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day09.oop.inheritace.point.Point"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day11.oop.interfacepkg.Instrument"/>
+    <fullyQualifiedTypeName name="java.lang.instrument.Instrumentation"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day08.oop.objectarray.student.Student"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day08.oop.student.ViewStudent"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day13.collection.music.view.ViewMusic"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day13.collection.music.model.ManageMusic"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day13.collection.music.model.Music"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day10.oop.abstractex.Person"/>
+    <fullyQualifiedTypeName name="org.Amorgetda.day12.collection.student.Student"/>
 </qualifiedTypeNameHistroy>

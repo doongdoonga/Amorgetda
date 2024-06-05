@@ -10,11 +10,11 @@ public class Exam_DeepCopy {
 		}
 		copy[1] = 11;
 		for(int i : copy) {
-			System.out.print(i + " ");
+			System.out.print(i + " "); // 0 11 4 9
 		}
 		System.out.println();
 		for(int i : arrs) {
-			System.out.print(i + " ");
+			System.out.print(i + " "); // 0 1 4 9
 		}
 	}
 }

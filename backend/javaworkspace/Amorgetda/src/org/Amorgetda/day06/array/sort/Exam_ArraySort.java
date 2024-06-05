@@ -57,6 +57,7 @@ public class Exam_ArraySort {
 		n[0] = n[1];
 		n[1] = tn;
 		
+		//	{ 5, 24, 7}
 		
 		tn = n[1];
 		n[1] = n[2];
@@ -69,6 +70,8 @@ public class Exam_ArraySort {
 		tn = ns[0];
 		ns[0] = ns[2];
 		ns[2] = tn;
+		
+		//	{ 7, 5, 24}
 		
 		tn = ns[0];
 		ns[0] = ns[1];
